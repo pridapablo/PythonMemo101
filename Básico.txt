@@ -1,0 +1,14 @@
+def nombredelafuncion(parametros) -> define una función
+
+if -> condición "si"
+	elif -> condición adentro de otra
+	else -> en caso de no cumplirse la condición
+	
+while -> condición "mientras" ("not in, in, etc.")
+	
+for (variable) in (rango()) -> proceso cíclico
+
+x = int(input("")) -> asigna (x) el usuario
+x = 1 -> yo asigno (x)
+
+print (f"{x}") -> "f" le da formato para poder poner variables entre {}
